@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\common",
+    "\\include\\planning",
+    "\\src",
+    "\\src\\core",
+    "\\src\\kinematics",
+    "\\src\\planning",
+    "\\src\\simulation",
+    "\\tests\\python"
+  ],
+  "SelectedNode": "\\src\\examples",
+  "PreviewInSolutionExplorer": false
+}
